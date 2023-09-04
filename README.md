@@ -9,7 +9,7 @@ Basic and Advanced Functions: Perform essential arithmetic operations like addit
 ### Responsive Design: The calculator is designed to work seamlessly on desktops, laptops, tablets, and mobile devices, ensuring you can use it wherever you go. <br>
 
 ## Usage <br>
-Demo Link - Check out the live demo to see the calculator in action. <br>
+Demo Link - [Check out the live demo to see the calculator in action.](https://iambiggestnoobcoder.github.io/Calculator/) <br>
 Clone the repository to your local machine using the following command: <br>
 bash <br>
 Copy code <br>
