@@ -13,7 +13,7 @@ Demo Link - Check out the live demo to see the calculator in action. <br>
 Clone the repository to your local machine using the following command: <br>
 bash <br>
 Copy code <br>
-git clone https://github.com/your-username/web-calculator.git <br>
+git clone [https://github.com/your-username/web-calculator.git](https://github.com/IamBiggestNoobCoder/Calculator) <br>
 Open the index.html file in your web browser to start using the calculator locally. <br>
 Contributing <br>
 We welcome contributions to make this calculator even better! Whether it's fixing a bug, adding a new feature, or improving the code quality, your contributions are highly appreciated. <br>
