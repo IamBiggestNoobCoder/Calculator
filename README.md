@@ -4,9 +4,9 @@
 Welcome to the Web Calculator project! This is a simple yet powerful web-based calculator built with HTML, CSS, and JavaScript. Whether you're a student, a professional, or just someone who needs to crunch numbers, this calculator is designed to meet your mathematical needs with ease and efficiency.
 
 ## Features
-###User-Friendly Interface: Our calculator boasts an intuitive and user-friendly interface, making it accessible to users of all skill levels. <br>
+### User-Friendly Interface: Our calculator boasts an intuitive and user-friendly interface, making it accessible to users of all skill levels. <br>
 Basic and Advanced Functions: Perform essential arithmetic operations like addition, subtraction, multiplication, and division. <br>
-###Responsive Design: The calculator is designed to work seamlessly on desktops, laptops, tablets, and mobile devices, ensuring you can use it wherever you go. <br>
+### Responsive Design: The calculator is designed to work seamlessly on desktops, laptops, tablets, and mobile devices, ensuring you can use it wherever you go. <br>
 
 ## Usage <br>
 Demo Link - Check out the live demo to see the calculator in action. <br>
